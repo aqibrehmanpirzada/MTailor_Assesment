@@ -16,3 +16,4 @@
 - Enter the image path when prompted
 - This will call the api with the image path specified and run inference using the 'run' function in main.py
 - The output will be a printed dictionary containing predicted class, and other information.
+![Preview](img.jpeg)
